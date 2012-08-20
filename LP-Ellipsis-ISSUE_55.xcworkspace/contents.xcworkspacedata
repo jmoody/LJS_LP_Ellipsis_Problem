@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Ellpsis_ISSUE_55/Ellpsis_ISSUE_55.xcodeproj">
+      location = "group:Ellpsis_ISSUE_55/Ellipsis_ISSUE_55.xcodeproj">
    </FileRef>
 </Workspace>

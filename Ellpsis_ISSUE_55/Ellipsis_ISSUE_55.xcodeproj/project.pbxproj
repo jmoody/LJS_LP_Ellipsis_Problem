@@ -15,22 +15,38 @@
 		F596319E15E2198700A041D7 /* LjsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F596319D15E2198700A041D7 /* LjsAppDelegate.m */; };
 		F59631A115E2198700A041D7 /* LjsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F59631A015E2198700A041D7 /* LjsViewController.m */; };
 		F59631A415E2198700A041D7 /* LjsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F59631A215E2198700A041D7 /* LjsViewController.xib */; };
+		F59631E215E21D8E00A041D7 /* Default@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631DA15E21D8E00A041D7 /* Default@2x~iphone.png */; };
+		F59631E315E21D8E00A041D7 /* Default~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631DB15E21D8E00A041D7 /* Default~iphone.png */; };
+		F59631E415E21D8E00A041D7 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631DC15E21D8E00A041D7 /* Icon-72.png */; };
+		F59631E515E21D8E00A041D7 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631DD15E21D8E00A041D7 /* Icon-Small-50.png */; };
+		F59631E615E21D8E00A041D7 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631DE15E21D8E00A041D7 /* Icon-Small.png */; };
+		F59631E715E21D8E00A041D7 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631DF15E21D8E00A041D7 /* Icon.png */; };
+		F59631E815E21D8E00A041D7 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F59631E015E21D8E00A041D7 /* Icon@2x.png */; };
+		F59631E915E21D8E00A041D7 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = F59631E115E21D8E00A041D7 /* iTunesArtwork */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F596318915E2198700A041D7 /* Ellpsis_ISSUE_55.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ellpsis_ISSUE_55.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F596318915E2198700A041D7 /* Ellipsis_ISSUE_55.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ellipsis_ISSUE_55.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F596318D15E2198700A041D7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F596318F15E2198700A041D7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F596319115E2198700A041D7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		F596319515E2198700A041D7 /* Ellpsis_ISSUE_55-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ellpsis_ISSUE_55-Info.plist"; sourceTree = "<group>"; };
+		F596319515E2198700A041D7 /* Ellipsis_ISSUE_55-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ellipsis_ISSUE_55-Info.plist"; sourceTree = "<group>"; };
 		F596319715E2198700A041D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F596319915E2198700A041D7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F596319B15E2198700A041D7 /* Ellpsis_ISSUE_55-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Ellpsis_ISSUE_55-Prefix.pch"; sourceTree = "<group>"; };
+		F596319B15E2198700A041D7 /* Ellipsis_ISSUE_55-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Ellipsis_ISSUE_55-Prefix.pch"; sourceTree = "<group>"; };
 		F596319C15E2198700A041D7 /* LjsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LjsAppDelegate.h; sourceTree = "<group>"; };
 		F596319D15E2198700A041D7 /* LjsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LjsAppDelegate.m; sourceTree = "<group>"; };
 		F596319F15E2198700A041D7 /* LjsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LjsViewController.h; sourceTree = "<group>"; };
 		F59631A015E2198700A041D7 /* LjsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LjsViewController.m; sourceTree = "<group>"; };
 		F59631A315E2198700A041D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/LjsViewController.xib; sourceTree = "<group>"; };
+		F59631DA15E21D8E00A041D7 /* Default@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x~iphone.png"; sourceTree = "<group>"; };
+		F59631DB15E21D8E00A041D7 /* Default~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default~iphone.png"; sourceTree = "<group>"; };
+		F59631DC15E21D8E00A041D7 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		F59631DD15E21D8E00A041D7 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		F59631DE15E21D8E00A041D7 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		F59631DF15E21D8E00A041D7 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		F59631E015E21D8E00A041D7 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		F59631E115E21D8E00A041D7 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +75,7 @@
 		F596318A15E2198700A041D7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F596318915E2198700A041D7 /* Ellpsis_ISSUE_55.app */,
+				F596318915E2198700A041D7 /* Ellipsis_ISSUE_55.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,20 +106,37 @@
 		F596319415E2198700A041D7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F596319515E2198700A041D7 /* Ellpsis_ISSUE_55-Info.plist */,
+				F59631D915E21D7800A041D7 /* required artwork */,
+				F596319515E2198700A041D7 /* Ellipsis_ISSUE_55-Info.plist */,
 				F596319615E2198700A041D7 /* InfoPlist.strings */,
 				F596319915E2198700A041D7 /* main.m */,
-				F596319B15E2198700A041D7 /* Ellpsis_ISSUE_55-Prefix.pch */,
+				F596319B15E2198700A041D7 /* Ellipsis_ISSUE_55-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F59631D915E21D7800A041D7 /* required artwork */ = {
+			isa = PBXGroup;
+			children = (
+				F59631DA15E21D8E00A041D7 /* Default@2x~iphone.png */,
+				F59631DB15E21D8E00A041D7 /* Default~iphone.png */,
+				F59631DC15E21D8E00A041D7 /* Icon-72.png */,
+				F59631DD15E21D8E00A041D7 /* Icon-Small-50.png */,
+				F59631DE15E21D8E00A041D7 /* Icon-Small.png */,
+				F59631DF15E21D8E00A041D7 /* Icon.png */,
+				F59631E015E21D8E00A041D7 /* Icon@2x.png */,
+				F59631E115E21D8E00A041D7 /* iTunesArtwork */,
+			);
+			name = "required artwork";
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F596318815E2198700A041D7 /* Ellpsis_ISSUE_55 */ = {
+		F596318815E2198700A041D7 /* Ellipsis_ISSUE_55 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F59631A715E2198700A041D7 /* Build configuration list for PBXNativeTarget "Ellpsis_ISSUE_55" */;
+			buildConfigurationList = F59631A715E2198700A041D7 /* Build configuration list for PBXNativeTarget "Ellipsis_ISSUE_55" */;
 			buildPhases = (
 				F596318515E2198700A041D7 /* Sources */,
 				F596318615E2198700A041D7 /* Frameworks */,
@@ -113,9 +146,9 @@
 			);
 			dependencies = (
 			);
-			name = Ellpsis_ISSUE_55;
+			name = Ellipsis_ISSUE_55;
 			productName = Ellpsis_ISSUE_55;
-			productReference = F596318915E2198700A041D7 /* Ellpsis_ISSUE_55.app */;
+			productReference = F596318915E2198700A041D7 /* Ellipsis_ISSUE_55.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -128,7 +161,7 @@
 				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = "Joshua Moody";
 			};
-			buildConfigurationList = F596318315E2198700A041D7 /* Build configuration list for PBXProject "Ellpsis_ISSUE_55" */;
+			buildConfigurationList = F596318315E2198700A041D7 /* Build configuration list for PBXProject "Ellipsis_ISSUE_55" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -140,7 +173,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F596318815E2198700A041D7 /* Ellpsis_ISSUE_55 */,
+				F596318815E2198700A041D7 /* Ellipsis_ISSUE_55 */,
 			);
 		};
 /* End PBXProject section */
@@ -152,6 +185,14 @@
 			files = (
 				F596319815E2198700A041D7 /* InfoPlist.strings in Resources */,
 				F59631A415E2198700A041D7 /* LjsViewController.xib in Resources */,
+				F59631E215E21D8E00A041D7 /* Default@2x~iphone.png in Resources */,
+				F59631E315E21D8E00A041D7 /* Default~iphone.png in Resources */,
+				F59631E415E21D8E00A041D7 /* Icon-72.png in Resources */,
+				F59631E515E21D8E00A041D7 /* Icon-Small-50.png in Resources */,
+				F59631E615E21D8E00A041D7 /* Icon-Small.png in Resources */,
+				F59631E715E21D8E00A041D7 /* Icon.png in Resources */,
+				F59631E815E21D8E00A041D7 /* Icon@2x.png in Resources */,
+				F59631E915E21D8E00A041D7 /* iTunesArtwork in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,11 +283,15 @@
 		F59631A815E2198700A041D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = (
+					"$(ARCHS_STANDARD_32_BIT)",
+					armv6,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Ellpsis_ISSUE_55/Ellpsis_ISSUE_55-Prefix.pch";
-				INFOPLIST_FILE = "Ellpsis_ISSUE_55/Ellpsis_ISSUE_55-Info.plist";
+				GCC_PREFIX_HEADER = "Ellpsis_ISSUE_55/Ellipsis_ISSUE_55-Prefix.pch";
+				INFOPLIST_FILE = "Ellpsis_ISSUE_55/Ellipsis_ISSUE_55-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Ellipsis_ISSUE_55;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -254,11 +299,15 @@
 		F59631A915E2198700A041D7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = (
+					"$(ARCHS_STANDARD_32_BIT)",
+					armv6,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Ellpsis_ISSUE_55/Ellpsis_ISSUE_55-Prefix.pch";
-				INFOPLIST_FILE = "Ellpsis_ISSUE_55/Ellpsis_ISSUE_55-Info.plist";
+				GCC_PREFIX_HEADER = "Ellpsis_ISSUE_55/Ellipsis_ISSUE_55-Prefix.pch";
+				INFOPLIST_FILE = "Ellpsis_ISSUE_55/Ellipsis_ISSUE_55-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Ellipsis_ISSUE_55;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -266,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F596318315E2198700A041D7 /* Build configuration list for PBXProject "Ellpsis_ISSUE_55" */ = {
+		F596318315E2198700A041D7 /* Build configuration list for PBXProject "Ellipsis_ISSUE_55" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F59631A515E2198700A041D7 /* Debug */,
@@ -275,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F59631A715E2198700A041D7 /* Build configuration list for PBXNativeTarget "Ellpsis_ISSUE_55" */ = {
+		F59631A715E2198700A041D7 /* Build configuration list for PBXNativeTarget "Ellipsis_ISSUE_55" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F59631A815E2198700A041D7 /* Debug */,
