@@ -17,9 +17,12 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
   self.viewController = [[LjsViewController alloc] initWithNibName:@"LjsViewController" bundle:nil];
-  self.window.rootViewController = self.viewController;
-    [self.window makeKeyAndVisible];
-    return YES;
+  UINavigationController *navcon = [[UINavigationController alloc]
+                                    initWithRootViewController:self.viewController];
+  
+  self.window.rootViewController = navcon;
+  [self.window makeKeyAndVisible];
+  return YES;
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
